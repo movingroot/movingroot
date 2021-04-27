@@ -13,7 +13,9 @@
 #### 2019 **Influential Internship** 인플루엔셜
 ##### - Marketing & Publishing planning
   -> Report on publishing market trends 
+  
   -> Tracked bestsellers and evaluated marketability
+  
   -> **Based on Data**
 
 #### 2020- **AGL Developer** 에이지엘(주)
