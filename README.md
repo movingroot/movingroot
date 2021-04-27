@@ -21,8 +21,11 @@
 #### 2020- **AGL Developer** 에이지엘(주)
 ##### - Mobile Application Developing
   -> **Android: Java&Kotlin** 
+  
   Develop tablet application to digitize caddie's and staffs' duties 
+  
   -> **MVC: .Net Framework(C#)**
+  
   Develop and renewal gole course's web page 
   
 ---
