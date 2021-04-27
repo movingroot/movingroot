@@ -4,6 +4,7 @@
 
 ### Degree
 2014 - 2020 **Yonsei Univ. Bachelor's Degree**
+
 -> Korean Language&Literature, English Language&Literature
 
 ---
