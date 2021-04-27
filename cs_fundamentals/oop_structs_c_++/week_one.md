@@ -44,13 +44,13 @@ int main() {
 
 - Enclose data&functionality into a single unit
 * ###### Public
-members can be accessed by client code
+    members can be accessed by client code
 * ###### Private
-only used within the class itself
+    only used within the class itself
 
 - interface (.h) is defined separately from the implementation (.cpp)
 * ###### Header File(.h)
-define the interface to the class w/ member variables and functions
+    define the interface to the class w/ member variables and functions
 
 ex) Cube.h
 ```C++
@@ -68,7 +68,7 @@ class Cube {
 ```
 
 * ###### Implementation File(.cpp)
-contain the code to implement the class
+    contain the code to implement the class
 
 ex) Cube.cpp
 ```C++
@@ -107,7 +107,7 @@ int main() {
 #### C++ Standard Library ; std
 
 * ##### iostream
-operations for reading/writing
+    operations for reading/writing
 
 * Features can be imported into global space
     - ex) `using std::cout;`
