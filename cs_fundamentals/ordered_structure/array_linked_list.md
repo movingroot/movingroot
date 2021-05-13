@@ -13,9 +13,9 @@ int main() {
 
 int values[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-*// caculate the offset from the beginning of the array*
+// caculate the offset from the beginning of the array*
 
-*// 4 bytes per index (size of int)*
+// 4 bytes per index (size of int)*
 
 int offset = (long) &(values[index]) - (long) &(values[0]);
 
