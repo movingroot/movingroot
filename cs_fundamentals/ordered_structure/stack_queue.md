@@ -24,13 +24,13 @@
 
 ---
 
-|fc|Array|Linked List|
+|" "|Array|Linked List|
 |Create|O(1)|O(1)|
-|Push|O(1)*|O(1)|
-|Pop|O(1)*|O(1)|
+|Push|O(1)|O(1)|
+|Pop|O(1)|O(1)|
 |Empty|O(1)|O(1)|
 
-- '*' : occasional need to optimize the capacity of the array
+- array.push, pop: occasional need to optimize the capacity of the array
 - *Queue guarantee constant runtime no matter how large the queue grows*
 
 ---
@@ -64,10 +64,10 @@
 
 |" "|Array|Linked List|
 |Create|O(1)|O(1)|
-|Push|O(1)*|O(1)|
-|Pop|O(1)*|O(1)|
+|Push|O(1)|O(1)|
+|Pop|O(1)|O(1)|
 |Empty|O(1)|O(1)|
 
-- '*' : occasional need to optimize the capacity of the array
+- array.push, pop : occasional need to optimize the capacity of the array
 - singly-linked list is sufficient : no tale pointer
 - *Stack guarantee constant runtime no matter how large the stack grows*
