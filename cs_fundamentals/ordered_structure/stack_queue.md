@@ -63,7 +63,8 @@
 
 ---
 
-|" "|Array|Linked List|
+||Array|Linked List|
+|---|---|---|
 |Create|O(1)|O(1)|
 |Push|O(1)|O(1)|
 |Pop|O(1)|O(1)|
